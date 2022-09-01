@@ -2,7 +2,7 @@
 
 ---
 
-My name is Lucian. I'm from Transylvania, not a vampire.🦇 Into software engineering because I love thinkering, solving things, coding business logic and automating stuff.
+My name is Lucian. I'm from Transylvania, not a vampire.🦇 Into software engineering because I love thinkering, solving things, coding business logic and automating processes.
 
 My professional adventures start right after Uni, together with a friend started a digital ads agency [link](https://visualedge.ro/) that kept us busy for a few years. We grew to 11 full-time employees. After that moved to London to do a software developer bootcamp [link](https://makers.tech/), and then started working at my current company. [link](https://www.azuruw.com/)
 
