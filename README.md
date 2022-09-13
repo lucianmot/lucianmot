@@ -35,7 +35,7 @@ Feel free to reach out at any point, if it's for a chat or something else you ca
 
 ## 💻 CP stats
 
-Managed to rank in top 3% on codewars 🌝, then realised this platform was a bit on the easier side of the CP spectrum 😰, so... currently continuing to learn on codeforces and rebuild my profile there 🛠️.
+Managed to rank in top 3% on codewars 🤩, then realised this platform was a bit on the easier side of the CP spectrum 😰, so... currently continuing to learn on codeforces and rebuild my profile there 🛠️.
 
 Codewars Profile : [link](https://www.codewars.com/users/lucianmot)
 
